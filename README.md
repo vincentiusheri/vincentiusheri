@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vincentiusheri.
-- 👀 I’m interested in web development, cloud, cyber security, IoT (and more!). 
-- 💞️ I’m looking to collaborate on anything that will improve my knowledge of the aforementioned tech stacks.
-- 📫 You can contact me at vincentiusheri@gmail.com
+- 👀 Tech enthusiast focused on Web Dev, Cloud, CyberSec, and IoT. 
+- 💞️ Always looking to collaborate on innovative projects to sharpen my skills. 
+- 📫 Let's build something together! vincentiusheri@gmail.com
 
 <!---
 vincentiusheri/vincentiusheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
